@@ -4,9 +4,6 @@ body {
 
 .para {
   font-size: 22px;
-}
-
-.para {
   color: hsl(0, 0%, 0%);
   font-weight: 800;
 }
@@ -29,7 +26,6 @@ body {
 .cancel {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
-  font-size: 20px;
 }
 
 div.text {
@@ -39,7 +35,6 @@ div.text {
 }
 
 div.child {
-  color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
 }
