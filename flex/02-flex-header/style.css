@@ -2,7 +2,7 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .logo {
@@ -19,7 +19,8 @@
 .left-links {
   /* this is the class to control the "one", "two" and "three links" */
   display: flex;
-  justify-content: flex-start;
+  justify-content: space-between;
+  align-items: flex-start;
 }
 
 .right-links {
@@ -31,7 +32,9 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
+  justify-content: space-between;
   padding: 30px;
+  gap: 20px;
   
 }
 
