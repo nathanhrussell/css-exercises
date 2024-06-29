@@ -34,6 +34,8 @@ body {
   font-style: italic;
 }
 
+/* TDL: JUSTIFY BUTTON AND PROFILE ICON TO THE RIGHT */
+
 .right-elements {
   display: flex;
   align-items: flex-end;
