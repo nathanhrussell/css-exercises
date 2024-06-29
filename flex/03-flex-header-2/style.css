@@ -29,6 +29,11 @@ body {
   font-style: italic;
 }
 
+.right-elements {
+  display: flex;
+  justify-content: flex-end;
+}
+
 button {
   border: none;
   border-radius: 8px;
