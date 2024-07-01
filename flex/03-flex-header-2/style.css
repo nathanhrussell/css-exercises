@@ -2,6 +2,11 @@
 you'll learn about it later. */
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400;1,900&display=swap');
 
+  /* Thin visible border to help with flexbox */
+body *{
+  outline: 2px solid red;
+}
+
 body {
   margin: 0;
   background: #eee;
