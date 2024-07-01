@@ -22,6 +22,11 @@ body {
   align-items: flex-end;
 }
 
+.notifications {
+  display: flex;
+  align-self: center;
+}
+
 .profile-image {
   background: rebeccapurple;
   box-shadow: inset 2px 2px 4px rgba(0,0,0,.5);
@@ -38,8 +43,6 @@ body {
   font-weight: 900;
   font-style: italic;
 }
-
-/* TDL: JUSTIFY BUTTON AND PROFILE ICON TO THE RIGHT */
 
 .right-elements {
   display: flex;
