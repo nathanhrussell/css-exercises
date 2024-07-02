@@ -20,6 +20,7 @@ body {
   height: 100px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .notifications {
@@ -47,9 +48,7 @@ body {
 
 .right-elements {
   display: flex;
-  align-content: flex-end;
-  align-items: flex-end;
-  padding: 10px;
+  padding: 8px;
 }
 
 button {
