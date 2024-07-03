@@ -19,6 +19,14 @@ img {
   justify-content: center;
 }
 
+.content {
+  display: flex;
+}
+
+.text {
+  display: flex;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
