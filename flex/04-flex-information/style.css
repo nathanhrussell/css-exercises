@@ -31,6 +31,13 @@ img {
   width: 200px;
 }
 
+.plant-one{
+  display: flex;
+  flex-direction: column;
+}
+
+/* TDL: ADD CONTAINERS FOR EACH IMAGE AND TEXT GROUP AS ABOVE */
+
 /* do not edit this footer */
 .footer {
   position: fixed;
