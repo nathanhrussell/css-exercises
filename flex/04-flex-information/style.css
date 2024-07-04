@@ -22,11 +22,12 @@ img {
 
 .content {
   display: flex;
+  align-items: flex-end;
 }
 
 .text {
   display: flex;
-  flex-wrap: wrap;
+  width: 200px;
 }
 
 /* do not edit this footer */
