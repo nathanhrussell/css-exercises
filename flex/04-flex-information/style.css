@@ -1,8 +1,4 @@
   /* Thin visible border to help with flexbox */
-  body *{
-    outline: 2px solid red;
-  }
-
 body {
   font-family: 'Courier New', Courier, monospace;
 }
@@ -22,7 +18,6 @@ img {
 
 .content {
   display: flex;
-  align-items: flex-end;
   justify-content: center;
 }
 
@@ -31,9 +26,20 @@ img {
   width: 200px;
 }
 
-.plant-one{
-  display: flex;
-  flex-direction: column;
+.plant-one {
+  margin-right: 52px;
+}
+
+.plant-two {
+  margin-right: 52px;
+}
+
+.plant-three {
+  margin-right: 52px;
+}
+
+.plant-four {
+  margin-right: 52px;
 }
 
 /* TDL: ADD CONTAINERS FOR EACH IMAGE AND TEXT GROUP AS ABOVE */
