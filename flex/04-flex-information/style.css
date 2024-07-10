@@ -13,12 +13,13 @@ img {
   font-weight: 900;
   display: flex;
   justify-content: center;
-  padding-bottom: 32px;
+  margin-bottom: 32px;
 }
 
 .content {
   display: flex;
   justify-content: center;
+  gap: 52px;
 }
 
 .text {
@@ -26,20 +27,8 @@ img {
   width: 200px;
 }
 
-.plant-one {
-  margin-right: 52px;
-}
-
-.plant-two {
-  margin-right: 52px;
-}
-
-.plant-three {
-  margin-right: 52px;
-}
-
-.plant-four {
-  margin-right: 52px;
+.info {
+ max-width: 200px;
 }
 
 /* TDL: ADD CONTAINERS FOR EACH IMAGE AND TEXT GROUP AS ABOVE */
