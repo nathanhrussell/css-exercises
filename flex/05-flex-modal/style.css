@@ -28,10 +28,12 @@ body {
 .header {
   font-weight: bold;
   font-size: 20px;
+  padding: 10px;
 }
 
 .text {
   font-size: 16px;
+  padding: 10px;
 }
 
 .buttons {
