@@ -36,15 +36,13 @@ body {
   padding: 10px;
 }
 
-.buttons {
-  padding: 15px;
-}
 
 .modal {
   background: white;
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  padding: 10px;
 }
 
 .icon {
