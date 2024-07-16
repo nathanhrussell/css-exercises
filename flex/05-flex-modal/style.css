@@ -22,9 +22,13 @@ body {
   justify-content: center;
 }
 
+.buttons {
+  display: flex;
+}
+
 .header {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   font-weight: bold;
   font-size: 20px;
