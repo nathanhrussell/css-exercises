@@ -11,6 +11,28 @@ ul {
   list-style-type: none;
 }
 
+a:link { 
+  text-decoration: none;
+  color: #000000;
+  font-family: Roboto, sans-serif;
+} 
+a:visited { 
+  text-decoration: none;
+  color: #000000;
+  font-family: Roboto, sans-serif;
+} 
+a:hover { 
+  text-decoration: none;
+  color: #000000;
+  font-family: Roboto, sans-serif;
+} 
+a:active { 
+  text-decoration: none;
+  color: #000000;
+  font-family: Roboto, sans-serif;
+}
+
+
 img {
   width: 600px;
 }
