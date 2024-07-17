@@ -43,6 +43,8 @@ a:active {
   justify-content: space-between;
 }
 
+/* TODO: Move header and footer elements on to separate lines*/
+
 img {
   width: 600px;
 }
