@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+* {
+
+  border: 2px;
+  border-style: solid;
+  border-color: #ff0000;
+  }
+
 body {
   height: 100vh;
   margin: 0;
@@ -43,7 +50,13 @@ a:active {
   justify-content: space-between;
 }
 
-/* TODO: Move header and footer elements on to separate lines*/
+.left-links {
+  display: flex;
+}
+
+.right-links {
+  display: flex;
+}
 
 img {
   width: 600px;
