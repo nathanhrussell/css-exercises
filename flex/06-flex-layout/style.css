@@ -65,6 +65,13 @@ a:active {
   gap: 10px;
 }
 
+.content {
+  display: flex;
+  justify-content: center;
+}
+
+/* TODO: position the content box correctly in the centre of the page with the elements stacked */
+
 img {
   width: 600px;
 }
