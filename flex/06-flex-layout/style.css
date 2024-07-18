@@ -52,10 +52,14 @@ a:active {
 
 .left-links {
   display: flex;
+  padding: 5px;
+  gap: 10px;
 }
 
 .right-links {
   display: flex;
+  padding: 5px;
+  gap: 10px;
 }
 
 img {
