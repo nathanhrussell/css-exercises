@@ -67,7 +67,9 @@ a:active {
 
 .content {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
 }
 
 /* TODO: position the content box correctly in the centre of the page with the elements stacked */
