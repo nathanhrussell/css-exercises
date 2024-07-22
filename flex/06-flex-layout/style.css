@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-* {
+/* * {
 
   border: 2px;
   border-style: solid;
   border-color: #ff0000;
-  }
+  } */
 
 body {
   height: 100vh;
@@ -57,12 +57,14 @@ a:active {
   display: flex;
   padding: 5px;
   gap: 10px;
+  margin-left: 10px;
 }
 
 .right-links {
   display: flex;
   padding: 5px;
   gap: 10px;
+  margin-right: 10px;
 }
 
 .content {
@@ -70,9 +72,9 @@ a:active {
   flex-direction: column;
   align-items: center;
   gap: 10px;
+  justify-content: center;
+  flex-grow: 1;
 }
-
-/* TODO: position the content box correctly in the centre of the page with the elements stacked */
 
 img {
   width: 600px;
