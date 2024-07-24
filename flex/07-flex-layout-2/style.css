@@ -38,6 +38,8 @@ body {
   display: flex;
 }
 
+/* TODO: Put cards in separate right and left divs again to see if they appear correctly */
+
 .sidebar {
   min-width: 300px;
   background: royalblue;
