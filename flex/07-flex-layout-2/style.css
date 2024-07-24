@@ -34,8 +34,12 @@ body {
   margin-top: auto;
 }
 
+.container {
+  display: flex;
+}
+
 .sidebar {
-  width: 300px;
+  min-width: 300px;
   background: royalblue;
   box-sizing: border-box;
   padding: 16px;
@@ -53,10 +57,12 @@ body {
   font-size: 24px;
 }
 
+
 .cards {
   display: flex;
   flex-wrap: wrap;
   padding: 48px;
+  justify-content: space-between;
 }
 
 .card {
