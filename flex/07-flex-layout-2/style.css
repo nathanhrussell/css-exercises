@@ -54,6 +54,8 @@ body {
   padding-left: 16px;
 }
 
+/* TODO: position cards correctly, attempt to stack divs on top of each other */
+
 .sidebar a {
   text-decoration: none;
   color: #ffffff;
