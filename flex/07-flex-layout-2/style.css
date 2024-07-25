@@ -60,12 +60,22 @@ body {
 }
 
 
-.cards {
+.top-cards {
   display: flex;
   flex-wrap: wrap;
   padding: 48px;
   justify-content: space-between;
-  flex-direction: column;
+  flex-grow: 1;
+  flex-direction: row;
+}
+
+.bottom-cards {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 48px;
+  justify-content: space-between;
+  flex-grow: 1;
+  flex-direction: row;
 }
 
 .card {
