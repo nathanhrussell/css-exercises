@@ -68,6 +68,10 @@ body {
   flex-wrap: wrap;
   padding: 48px;
   flex-grow: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  
 
 }
 
@@ -76,6 +80,9 @@ body {
   flex-wrap: wrap;
   padding: 48px;
   flex-grow: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
 
 .cards {
