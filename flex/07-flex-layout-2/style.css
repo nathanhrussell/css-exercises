@@ -54,7 +54,7 @@ body {
   padding-left: 16px;
 }
 
-/* TODO: position cards correctly, attempt to stack divs on top of each other */
+/* TODO: card position in two columns when page becomes smaller */
 
 .sidebar a {
   text-decoration: none;
@@ -92,7 +92,8 @@ body {
   max-width: 350px;
   max-height: 500px;
   padding: 48px;
-  margin: 24px
+  margin: 24px;
+
 }
 
 /* ### Self Check
