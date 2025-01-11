@@ -94,3 +94,11 @@
   font-size: 13px;
   font-weight: normal;
 }
+
+.menu ul {
+  display: grid;
+}
+
+.nav ul {
+  display: grid;
+}
