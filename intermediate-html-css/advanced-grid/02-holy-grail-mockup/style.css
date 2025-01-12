@@ -29,6 +29,8 @@
 .menu ul,
 .menu li {
   font-size: 16px;
+  display: grid;
+  grid-template-columns: repeat(4, 0.8fr);
 }
 
 .sidebar {
@@ -62,6 +64,7 @@
 .nav ul li {
   font-size: 16px;
   text-transform: uppercase;
+  display: grid;
 }
 
 .article {
@@ -104,14 +107,6 @@
 .footer p {
   font-size: 13px;
   font-weight: normal;
-}
-
-.menu ul {
-  display: grid;
-}
-
-.nav ul {
-  display: grid;
 }
 
 ul {
