@@ -22,6 +22,7 @@
   background-color: #393f4d;
   display: grid;
   grid-template-columns: auto auto;
+  grid-column: 1/-1;
 }
 
 .menu ul,
@@ -33,6 +34,8 @@
   background-color: #C50208;
   display: grid;
   gap: 50px;
+  align-items: center;
+  justify-content: center;
 }
 
 .sidebar .photo {
@@ -62,6 +65,8 @@
 
 .article {
   background-color: #bccbde;
+  display: grid;
+  gap: 15px;
 }
 
 .article p {
@@ -75,6 +80,7 @@
   background-color: #FFFFFF;
   color: black;
   text-align: center;
+  height: 200px;
 }
 
 .card p {
@@ -90,6 +96,8 @@
 
 .footer {
   background-color: #393f4d;
+  display: grid;
+  grid-column: 1/-1;
 }
 
 .footer p {
