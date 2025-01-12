@@ -112,3 +112,7 @@
 .nav ul {
   display: grid;
 }
+
+ul {
+  list-style-type: none;
+}
