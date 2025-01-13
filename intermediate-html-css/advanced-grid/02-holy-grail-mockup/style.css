@@ -139,3 +139,8 @@
 ul {
   list-style-type: none;
 }
+
+.sidebar div {
+  height: 15vh;
+  width: 25vh;
+}
