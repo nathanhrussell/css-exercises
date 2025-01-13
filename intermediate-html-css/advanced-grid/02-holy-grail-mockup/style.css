@@ -72,7 +72,7 @@
   grid-template-columns: repeat(3, 1fr);
   text-align: center;
   height: 1vh;
-  grid-column: 1 / -1;
+  grid-column: 2;
   grid-row: 2;
 }
 
@@ -128,6 +128,7 @@
   display: grid;
   grid-column: 1/-1;
   grid-row: 4;
+  margin-bottom: 4px;
 }
 
 .footer p {
