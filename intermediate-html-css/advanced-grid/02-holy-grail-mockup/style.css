@@ -143,4 +143,7 @@ ul {
 .sidebar div {
   height: 15vh;
   width: 25vh;
+  display: grid;
+  align-items: center;
+  justify-content: center;
 }
