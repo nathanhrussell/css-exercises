@@ -26,7 +26,7 @@
   display: grid;
   grid-template-columns: auto auto;
   grid-column: 1/-1;
-  grid-row: 1
+  grid-row: 1;
   justify-content: space-between;
   align-items: center;
 }
@@ -78,7 +78,7 @@
 
 .nav ul {
   display: grid;
-  display: contents
+  display: contents;
 }
 
 .nav ul li {
